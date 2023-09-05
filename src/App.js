@@ -1,10 +1,11 @@
 import React from "react";
-import Address from "./Components/address";
+import Image from "./Components/image";
+
 
 function App() {
   return (
     <div className="App">
-      <Address />
+      <Image />
     </div>
   );
 }
